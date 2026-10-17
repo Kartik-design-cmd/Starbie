@@ -51,4 +51,14 @@ This is my final and more creative design of the board
 
 
 
-
+BOM
+| Component | Quantity | Unit Price (USD) | Supplier | Purpose |
+| --- | --- | --- | --- | --- |
+| XIAO-ESP32-C3 | 1 | $6.21(inc tax) | Alibaba | Main microcontroller |
+| OLED display, 0.96" 128 by 64 I2C | 1 | $5.60 | Amazon | Display screen |
+| DHT11 sensor | 1 | $1.70 | Amazon | Sensor to determine temperature and humidity |
+| MPU6050 sensor | 1 | $1.96 | Amazon | Sensor to determine movement |
+| Printing PCB | 1 | $5 | PCBway | Printing the main board |
+| Shipping PCB & tax |  | $10 |  |  |
+| Tax + shipping @ Amazon |  | $5.38 |  |  |
+| Total |  | $35.80 |  |  |
